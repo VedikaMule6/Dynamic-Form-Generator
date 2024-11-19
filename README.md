@@ -66,6 +66,6 @@ Visit `http://localhost:3000` in your browser.
 
 ## Deployment
 Deployed via [Vercel](https://vercel.com). Access the live app here:  
-[Dynamic Form Generator Live](https://your-vercel-app-link.vercel.app)
+[Dynamic Form Generator Live](https://dynamicformgenerator-seven.vercel.app/)
 
 ---
